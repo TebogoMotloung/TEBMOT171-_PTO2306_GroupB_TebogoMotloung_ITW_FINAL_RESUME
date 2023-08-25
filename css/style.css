@@ -25,7 +25,7 @@ img {
 }
 
 .banner {
-    font-family:Sans;
+    font-family:sans;
     font-style: italic;
     color: #D5FFE4;
     font-weight: 500;
@@ -52,4 +52,17 @@ img {
 
 .navbar, .nav-item:hover {
     color: #D5FFE4;
+}
+
+.about {
+    flex: 30%;
+    background-color: #9F91CC;
+     padding: 2rem;
+    display: flex;
+    margin: 2rem;
+      
+}
+
+h1 { text-align: left;
+
 }
